@@ -10,7 +10,7 @@
 
 - 🌱 Learning **Java**, **Golang**, and **Data Structures & Algorithms**
 - 💡 Built scalable event-driven ELT microservices
-- 🎯 Solved **300+ algorithm problems** on LeetCode[1]
+- 🎯 Solved **450+ algorithm problems** on LeetCode[1]
 
 ## 💻 Tech Stack
 
