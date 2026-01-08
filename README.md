@@ -1,102 +1,306 @@
-# Hi there, I'm Nilay Parmar 👋
-
-## 🚀 About Me
-
-Backend-focused Software Engineer with **4+ years of experience** architecting scalable distributed systems using Java and Node.js. I specialize in building event-driven microservices on AWS and optimizing high-throughput data pipelines.
-
-- 🔭 Currently working on **serverless event-driven architectures** and **microservices**
-- 🌱 Deep diving into **Java**, **Go**, and **System Design**
-- 💡 Building resilient backend infrastructure for e-commerce and SaaS products
-- 🎯 Leetcode@ [Nilay0911](https://leetcode.com/u/Nilay0911/)
-- 📫 Reach me at: **nilayparmar19@gmail.com**
-
-## 🛠️ Tech Stack
-
-### Languages
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-</p>
-
-### Backend & Frameworks
-<p>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-  <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
-
-### Cloud & DevOps
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
-</p>
-
-### Databases & Messaging
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img alt="DynamoDB" src="https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-</p>
-
-## 🏆 Key Achievements
-
-- 🚀 **Serverless Architecture**: Built event-driven backend services processing **50k+ product updates daily** using AWS Lambda, Step Functions, and EventBridge
-- ⚡ **Performance Optimization**: Reduced data synchronization latency by **35%** through CDC patterns with Node.js and SQS
-- 🛡️ **High Reliability**: Designed fault-tolerance strategies achieving **99.9% data reliability** for high-volume data feeds
-- 🔄 **Microservices**: Developed robust microservices using Java Spring Boot and Hibernate managing core e-commerce domains
-- 📊 **Scalable Systems**: Built NestJS microservices handling **large-scale concurrent requests** with low latency
-- 💻 **Problem Solving**: current focus on DSA and System Design
-
-## 📈 LeetCode Progress
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/Nilay0911?theme=dark&font=Noto%20Sans&ext=contest" alt="LeetCode Stats" />
-</div>
-
-## 🎯 Technical Expertise
-
-- **Distributed Systems**: Event-driven architectures, microservices, CDC patterns
-- **AWS Services**: Lambda, Step Functions, SQS, EventBridge, S3, ECS Fargate, Kinesis
-- **Backend Development**: RESTful APIs, ORM (Hibernate), server-side caching
-- **Data Engineering**: ETL workflows, data pipelines, real-time data processing
-- **DevOps**: CI/CD automation, Infrastructure as Code (Terraform), containerization
-- **System Design**: Fault tolerance, resilience patterns, scalability optimization
-
-## 🌟 Core Strengths
-
-- Building **scalable distributed systems** with focus on performance and reliability
-- Architecting **event-driven microservices** on cloud infrastructure
-- Optimizing **high-throughput data pipelines** for production environments
-- Implementing **fault-tolerant systems** with retry mechanisms and DLQ patterns
-- Mentoring developers on backend best practices and AWS serverless patterns
-
-## 📫 Connect With Me
-
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilay-parmar-b8b978178/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Nilay0911/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nilay1999)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilayparmar19@gmail.com)
+# 👋 Hi there, I'm Nilay Parmar
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Distributed+Systems+Architect;AWS+Cloud+Specialist;Microservices+Expert" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Cloud-blue?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Location-India-orange?style=for-the-badge" alt="Location"/>
+</p>
 
 </div>
 
 ---
 
+## 🚀 About Me
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+🎯 **Backend-focused Software Engineer** with **4+ years of experience** architecting scalable distributed systems using Java and Node.js. I specialize in building event-driven microservices on AWS and optimizing high-throughput data pipelines.
+
+### 🔥 What I'm up to:
+
+- 🔭 Currently working on **serverless event-driven architectures** and **microservices**, apart from it exploring **devops** area.
+- 🌱 Deep diving into **Java**, **Go**, and **System Design**
+- 💡 Building resilient backend infrastructure for e-commerce and SaaS products
+- 🎯 Solving problems on [LeetCode](https://leetcode.com/u/Nilay0911/) 
+- 📫 Reach me at: **nilayparmar19@gmail.com**
+- ⚡ Fun fact: I love optimizing systems and making them blazingly fast! 🚀
+
+---
+
+## 🛠️ Tech Arsenal
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nilay1999&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+### 💻 Languages & Core Technologies
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="65" height="65" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="65" height="65" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="65" height="65" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="65" height="65" />
+<br>Go
+</td>
+</tr>
+</table>
+
+### � Backend & Frameworks
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="65" height="65" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="65" height="65" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" alt="NestJS" width="65" height="65" />
+<br>NestJS
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="65" height="65" />
+<br>Express.js
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="Hibernate" width="65" height="65" />
+<br>Hibernate
+</td>
+</tr>
+</table>
+
+### ☁️ Cloud & DevOps
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="65" height="65" />
+<br>Terraform
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab CI/CD" width="65" height="65" />
+<br>GitLab CI/CD
+</td>
+</tr>
+</table>
+
+### 🗄️ Databases & Messaging
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="65" height="65" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="65" height="65" />
+<br>MongoDB
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="65" height="65" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" width="65" height="65" />
+<br>DynamoDB
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="65" height="65" />
+<br>RabbitMQ
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Currently Exploring & Learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Always+Learning+%F0%9F%93%9A;Expanding+My+Tech+Horizons+%F0%9F%9A%80" alt="Learning" />
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🐹 Go (Golang)**
+```go
+func main() {
+    fmt.Println("Learning Go!")
+}
+```
+*Diving deep into Go's concurrency patterns and building high-performance services*
+
+</td>
+<td align="center" width="33%">
+
+**☸️ Kubernetes & Orchestration**
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: learning-k8s
+```
+*Mastering container orchestration, deployments, and cluster management*
+
+</td>
+<td align="center" width="33%">
+
+**🔄 GitOps & Advanced DevOps**
+```bash
+$ argocd app sync
+$ flux reconcile
+```
+*Exploring GitOps workflows, ArgoCD, Flux, and modern deployment strategies*
+
+</td>
+</tr>
+</table>
+
+### 🎯 Learning Goals 2026
+- 🐹 **Golang**: Building microservices and CLI tools
+- ☸️ **Kubernetes**: Advanced networking, operators, and RBAC
+- 🔄 **GitOps**: ArgoCD, different deployment strategies 
+- 🛠️ **DevOps Tools**: Helm, Istio, Prometheus, Grafana
+- 📊 **Observability**: Distributed tracing and monitoring
+
+---
+
+## 🎯 Technical Expertise
+
+<div align="center">
+
+### 🏗️ Architecture & Systems
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Distributed_Systems-FF6B6B?style=for-the-badge&logo=apache&logoColor=white" alt="Distributed Systems"/>
+<br><b>Event-driven architectures</b><br>Microservices<br>CDC patterns
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud"/>
+<br><b>Lambda & Step Functions</b><br>SQS & EventBridge<br>S3 & ECS Fargate
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Backend_Dev-4ECDC4?style=for-the-badge&logo=code&logoColor=white" alt="Backend Development"/>
+<br><b>RESTful APIs</b><br>ORM (Hibernate)<br>Server-side caching
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Data_Engineering-45B7D1?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Engineering"/>
+<br><b>ETL workflows</b><br>Data pipelines<br>Real-time processing
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/DevOps-96CEB4?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps"/>
+<br><b>CI/CD automation</b><br>Infrastructure as Code<br>Containerization
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/System_Design-FFEAA7?style=for-the-badge&logo=blueprint&logoColor=black" alt="System Design"/>
+<br><b>Fault tolerance</b><br>Resilience patterns<br>Scalability optimization
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🌟 Core Strengths
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🏗️ Architecture & Design**
+- Building **scalable distributed systems**
+- Architecting **event-driven microservices**
+- Implementing **fault-tolerant systems**
+
+</td>
+<td align="center" width="50%">
+
+**⚡ Performance & Optimization**
+- Optimizing **high-throughput data pipelines**
+- **System Design** for scalability
+- **AWS serverless** best practices
+
+</td>
+</tr>
+</table>
+
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+<p>
+<a href="https://www.linkedin.com/in/nilay-parmar-b8b978178/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://leetcode.com/u/Nilay0911/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="https://github.com/Nilay1999">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:nilayparmar19@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+
+</div>
+
+
+<div align="center">
   
-  **💡 "Architecting scalable solutions, one microservice at a time"**
+<img src="https://komarev.com/ghpvc/?username=Nilay1999&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+
+
+<br/>
+
+**⭐ Star my repositories if you find them interesting!**
+
 </div>
