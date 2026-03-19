@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Nilay Parmar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Distributed+Systems+Architect;AWS+Cloud+Specialist;Microservices+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Distributed+Systems+;" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4%2B%20Years-brightgreen?style=for-the-badge" alt="Experience"/>
